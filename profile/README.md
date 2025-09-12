@@ -1,6 +1,7 @@
-Why does this exist? 
+Why does this exist?
 
-Some things - especially code snippets and files - work really well when hosted on Github. The idea is that Apra Utah's presence on GitHub is just another resource that may be helpful as you explore technical solutions to every-day prospect development obstacles, and also a technical playground for building new tools!
-In a world where vendors are constantly increasing prices, creating open-source tools that even the most humble non-profit volunteer prospect researcher at a shoestring-budget non-profit can benefit from!
+GitHub is a great platform for sharing code snippets, files, and collaborative projects. Apra Utah's presence here is meant to be a helpful resource for tackling common prospect development challenges, while also serving as a technical playground for building and experimenting with new tools.
 
-Hopefully, this expands beyond our little regional professional association. It would be amazing to have other Apra chapters collaborating on Github!
+In an environment where vendor costs continue to rise, open-source solutions can empower even the most budget-conscious nonprofit professionals and volunteer researchers.
+
+We hope this effort grows beyond our regional chapter—imagine the potential of Apra chapters collaborating across GitHub!
