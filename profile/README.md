@@ -1,4 +1,4 @@
-Why does this exist?
+# Why does this exist?
 
 GitHub is a great platform for sharing code snippets, files, and collaborative projects. Apra Utah's presence here is meant to be a helpful resource for tackling common prospect development challenges, while also serving as a technical playground for building and experimenting with new tools.
 
